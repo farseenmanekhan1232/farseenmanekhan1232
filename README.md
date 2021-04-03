@@ -1,4 +1,4 @@
-![Mohammad Farseen's Cover](https://user-images.githubusercontent.com/52719271/113082778-b0db2180-91f8-11eb-81de-2542f6c20234.png)
+![Mohammad Farseen Manekhan's-cover](https://user-images.githubusercontent.com/67449931/113479744-6256ad00-94ae-11eb-844d-386ae9ed07d3.png)
 
 ## 🧔 About Me
 
