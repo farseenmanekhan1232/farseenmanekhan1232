@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Web Development and UI/UX**
 
-- 📫 Contact me **[here](farseenmanekhan1232@gmail.com)**
+- 📫 Contact me **[here](https://www.linkedin.com/in/mohammad-farseen-manekhan-2419531a7/)**
 
 - ⚡ Fun fact **I love ANIME**
 
