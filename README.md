@@ -26,10 +26,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/farseenmanekhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farseenmanekhan" /></a></p><br><br>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farseenmanekhan1232&show_icons=true&locale=en&layout=compact" alt="farseenmanekhan1232" /></p>
+<p><a href="https://www.buymeacoffee.com/farseenmanekhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="farseenmanekhan" /></a></p><br><br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farseenmanekhan1232&" alt="farseenmanekhan1232" /></p>
 
