@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Farseen</h1>
-<h3 align="center">A Curious Developer from India</h3>
-
+<h3 align="center">I Like Learning Whatever I bump Into</h3>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farseenmanekhan1232&label=Profile%20views&color=0e75b6&style=flat" alt="farseenmanekhan1232" /> </p>
 
 <p align="center"> <a href="https://twitter.com/mohd_farseen" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_farseen?logo=twitter&style=for-the-badge" alt="mohd_farseen" /></a> </p>
