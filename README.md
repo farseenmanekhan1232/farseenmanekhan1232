@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **https://linktr.ee/mohdfarseen**
 
-- ⚡ Fun fact **I love Anime**
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farseenmanekhan1232&" alt="farseenmanekhan1232" /></p>
 <hr>
