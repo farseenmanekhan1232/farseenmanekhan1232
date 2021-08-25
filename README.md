@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.dev-stuff.tech](https://www.dev-stuff.tech)
 
-- 💬 Ask me about **Competitive Programming , Development**
+- 💬 Ask me about **Development, Competitive Programming**
 
 - 📫 How to reach me **https://linktr.ee/mohdfarseen**
 
