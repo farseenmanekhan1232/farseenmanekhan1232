@@ -7,7 +7,7 @@
 
 - 📝 You can Read Some of My Blogs at [https://www.dev-stuff.tech](https://www.dev-stuff.tech)
 
-- 💬 Ask me about **Development, Competitive Programming**
+- 💬 Ask me about **Development, Programming**
 
 - 📫 How to reach me **https://linktr.ee/mohdfarseen**
 
