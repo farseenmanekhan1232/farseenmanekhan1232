@@ -5,7 +5,7 @@
 
 <hr>
 
-- 📝 I regularly write articles on [https://www.dev-stuff.tech](https://www.dev-stuff.tech)
+- 📝 You can Read Some Of My Blogs at [https://www.dev-stuff.tech](https://www.dev-stuff.tech)
 
 - 💬 Ask me about **Development, Competitive Programming**
 
