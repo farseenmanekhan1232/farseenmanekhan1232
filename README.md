@@ -12,7 +12,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/mohd_farseen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="mohd_farseen" height="30" width="40" /></a>
+<a href="https://twitter.com/farseenmanekhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="mohd_farseen" height="30" width="40" /></a>
 <a href="https://fb.com/mohammad.manekhan.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/facebook.svg" alt="mohammad.manekhan.9" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-farseen-manekhan-2419531a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="thefarseen" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/thefarseen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thefarseen" height="30" width="40" /></a>
