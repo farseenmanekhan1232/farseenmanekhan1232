@@ -11,7 +11,8 @@
 
 <hr />
 
-- 💬 Ask me about **Development, Programming** - 📫 How to reach me
+- 💬 Ask me about **Development, Programming** 
+- 📫 How to reach me
 **https://linktr.ee/mohdfarseen**
 
 <h4 align="left">Connect with me:</h4>
