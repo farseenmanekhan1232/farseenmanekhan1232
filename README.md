@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm Mohammad Farseen</h1>
+<h1 >Hi 👋, I'm Farseen</h1>
 <h3>I Like Learning Whatever I bump Into</h3>
 <br />
 
