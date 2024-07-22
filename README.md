@@ -11,16 +11,16 @@ reach me at linktr.ee/mohdfarseen
   <a href="https://codeforces.com/profile/thefarseen" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="30" width="40" style="filter: invert(50%);" /></a>
 </p>
 <h3>languages, frameworks and libraries</h3>
-<p align="right">
+<p >
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,bash" alt="skills" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,express,nodejs,flask,html,tailwind" alt="skills" /></a>
 </p>
 <h3>databases</h3>
-<p align="right">
+<p >
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="skills" /></a>
 </p>
 <h3>tools</h3>
-<p align="right">
+<p >
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,firebase,postman" alt="skills" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,photoshop" alt="skills" /></a>
 </p>
