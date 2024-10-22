@@ -205,3 +205,6 @@ reach me at <a href="https://linktr.ee/mohdfarseen" target="_blank">linktr.ee/mo
     </picture>
   </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
