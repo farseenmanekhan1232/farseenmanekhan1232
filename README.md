@@ -214,7 +214,7 @@ reach me at <a href="https://linktr.ee/mohdfarseen" target="_blank">linktr.ee/mo
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
@@ -236,5 +236,5 @@ Mac                      2 hrs 6 mins        ███████████�
 ```
 
 
- Last Updated on 24/10/2024 08:50:52 UTC
+ Last Updated on 24/10/2024 18:46:53 UTC
 <!--END_SECTION:waka-->
