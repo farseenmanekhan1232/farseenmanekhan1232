@@ -222,17 +222,15 @@ reach me at <a href="https://linktr.ee/mohdfarseen" target="_blank">linktr.ee/mo
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 mins             █████████░░░░░░░░░░░░░░░░   37.23 % 
-JSON                     13 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Git Config               11 mins             ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/05/2025 18:48:47 UTC
+ Last Updated on 01/06/2025 18:48:59 UTC
 <!--END_SECTION:waka-->
