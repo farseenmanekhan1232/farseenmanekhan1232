@@ -214,7 +214,7 @@ reach me at <a href="https://linktr.ee/mohdfarseen" target="_blank">linktr.ee/mo
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-731%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
@@ -222,15 +222,19 @@ reach me at <a href="https://linktr.ee/mohdfarseen" target="_blank">linktr.ee/mo
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 10 mins        ██████████████████████░░░   86.20 % 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+JSON5                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/06/2025 18:53:31 UTC
+ Last Updated on 04/06/2025 18:52:43 UTC
 <!--END_SECTION:waka-->
