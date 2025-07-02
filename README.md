@@ -214,8 +214,27 @@ reach me at <a href="https://linktr.ee/mohdfarseen" target="_blank">linktr.ee/mo
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2014%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 01/07/2025 18:53:05 UTC
+```text
+💬 Programming Languages: 
+TypeScript               21 hrs 47 mins      ███████████████████████░░   90.23 % 
+Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+HTML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+
+🔥 Editors: 
+VS Code                  24 hrs 9 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      24 hrs 9 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 02/07/2025 18:54:05 UTC
 <!--END_SECTION:waka-->
