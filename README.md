@@ -1,7 +1,7 @@
 <h1>hi, i'm farseen</h1>
 <h3>i like learning new things</h3>
 ask me about development, programming  
-reach me at <a href="https://linktr.ee/mohdfarseen" target="_blank">linktr.ee/mohdfarseen</a>
+reach me at farseenmanekhan1232@gmail.com
 
 <h4>connect with me:</h4>
 <p>
