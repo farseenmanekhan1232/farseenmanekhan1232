@@ -214,8 +214,27 @@ reach me at farseenmanekhan1232@gmail.com
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C280%20hrs%2039%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.2%20million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 16/11/2025 18:49:26 UTC
+```text
+💬 Programming Languages: 
+TypeScript               11 hrs 18 mins      ██████████████░░░░░░░░░░░   55.33 % 
+JavaScript               1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+
+🔥 Editors: 
+Zed                      20 hrs 25 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      20 hrs 25 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 17/11/2025 18:52:56 UTC
 <!--END_SECTION:waka-->
