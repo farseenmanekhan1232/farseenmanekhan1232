@@ -5,7 +5,7 @@ reach me at farseenmanekhan1232@gmail.com
 
 <h4>connect with me:</h4>
 <p>
-  <a href="https://twitter.com/farseenmanekhan" target="_blank">
+  <a href="https://twitter.com/farsn_" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:twitter.svg?color=white" />
       <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:twitter.svg?color=black" />
